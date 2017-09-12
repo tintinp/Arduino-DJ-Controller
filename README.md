@@ -3,6 +3,7 @@ It's an Arduino Dj Mixer and Turntable!
 
 DJ Mixer Scripts and Schematics
 <coming soon!>
+pic of solder
 
 DJ Turntable Deck Scripts and Schematics
 <coming soon!>
